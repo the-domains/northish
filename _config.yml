@@ -1,3 +1,4 @@
+layout_spectrum: 0.3117902837693691
 typography_spectrum: 0.5788641418330371
 color:
   brandStrength: 0.885092044249177
@@ -5,12 +6,9 @@ color:
   saturation: 0.17630775552242994
   rhythmicContrast: 0.7616623979993165
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.3117902837693691
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Northish
-title: nôrthish
-description: non-linear
